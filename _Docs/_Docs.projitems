@@ -9,6 +9,7 @@
     <Import_RootNamespace>_Docs</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
+    <None Include="$(MSBuildThisFileDirectory)External Projects.md" />
     <None Include="$(MSBuildThisFileDirectory)Thinking.md" />
   </ItemGroup>
 </Project>
