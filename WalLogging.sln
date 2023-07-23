@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WalLogging", "WalLogging\WalLogging.csproj", "{814EAF6A-E2F8-4889-8035-417D4E7778B6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestSomething", "TestSomething\TestSomething.csproj", "{A3CD0032-B6DB-4821-BF5F-5EB7BDC8E15A}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "_Docs", "_Docs\_Docs.shproj", "{531ECF75-EDDA-4BC2-A75A-FF63B33B0887}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{814EAF6A-E2F8-4889-8035-417D4E7778B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{814EAF6A-E2F8-4889-8035-417D4E7778B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{814EAF6A-E2F8-4889-8035-417D4E7778B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{814EAF6A-E2F8-4889-8035-417D4E7778B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3CD0032-B6DB-4821-BF5F-5EB7BDC8E15A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3CD0032-B6DB-4821-BF5F-5EB7BDC8E15A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3CD0032-B6DB-4821-BF5F-5EB7BDC8E15A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3CD0032-B6DB-4821-BF5F-5EB7BDC8E15A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE5D3544-A75E-4511-ADAF-BEE3DA168FF9}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		_Docs\_Docs.projitems*{531ecf75-edda-4bc2-a75a-ff63b33b0887}*SharedItemsImports = 13
+	EndGlobalSection
+EndGlobal
